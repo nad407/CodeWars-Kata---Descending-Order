@@ -1,0 +1,11 @@
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.deps.json
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.runtimeconfig.json
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.runtimeconfig.dev.json
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.dll
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp2.0\DescendingOrder.pdb
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.csprojResolveAssemblyReference.cache
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.csproj.CoreCompileInputs.cache
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.AssemblyInfoInputs.cache
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.AssemblyInfo.cs
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.dll
+c:\users\schools_home\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp2.0\DescendingOrder.pdb
